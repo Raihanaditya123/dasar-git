@@ -15,6 +15,7 @@
             $x = $_GET['email'];
             echo $x;
         }
+        
           
         ?>
     </body>
